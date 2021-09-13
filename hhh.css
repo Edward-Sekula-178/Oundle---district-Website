@@ -1,0 +1,22 @@
+
+body{
+    background-color: maroon;
+    margin:0px;
+}
+.blue{
+    background-color: blue;
+}
+
+.title{
+    background-color: #590d1d;
+    font-family:"sans-serif";
+    color: whitesmoke;
+    font-size: 90px;
+    scale: (.75,1);
+    text-align: center;
+    padding-top: 5px;
+}
+.navbar{
+    font-size: 30px;
+    
+}
